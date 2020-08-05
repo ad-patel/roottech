@@ -1,0 +1,34 @@
+
+
+a {
+    color: #d4138d;
+    font-family: 'Oleo Script', cursive;
+    font-size: 20px
+  }
+  
+  h1{
+    color: #d4138d;
+    text-align: center;
+    font-family: 'Grenze Gotisch', cursive;
+  }
+  
+  p{
+    text-align: center;
+    font-family: 'Noticia Text', serif;
+  }
+  
+  h2, h3, h4{
+    color: #d4138d;
+    font-family: 'Grenze Gotisch', cursive;
+  }
+  
+  body{
+    color: #230aa3;
+    background-image: linear-gradient(#b3c5f5, #ffb0e2);
+  }
+  
+  table{
+    font-family: 'Recursive', sans-serif;
+  }
+  
+  
